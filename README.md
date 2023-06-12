@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khanthecoder ( Abdul Rawoof Khan)
-- 👀 I’m interested in building apps that can be used in real life
+- 👀 I’m building Facebook for colleges. Join my journey: twitter.com/khanthecoder
 - 🌱 I’m currently learning React and Firebase
 - 📫 How to reach me : khanthecoder31@gmail.com
 
